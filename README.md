@@ -1,1 +1,0 @@
-Olá eu sou bué fixe e gosto de pizza de queijo e fiambre da pizza hut. Mas só da pizza hut! Se me trouxeres outra eu jogo fora.
