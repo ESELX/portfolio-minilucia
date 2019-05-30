@@ -168,7 +168,7 @@ input, select, textarea {
 		}
 
 	strong, b {
-		color: #ffffff
+		color: #000000
 		font-weight: 600;
 	}
 
@@ -1941,8 +1941,8 @@ input, select, textarea {
 		input[type="url"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #ffffff;
-			box-shadow: 0 0 0 2px #000000;
+			border-color: #000000;
+			box-shadow: 0 0 0 2px #ffffff;
 		}
 
 	select {
@@ -1957,7 +1957,7 @@ input, select, textarea {
 
 		select option {
 			color: #000000;
-			background: #d1d1d1;
+			background: #ffffff;
 		}
 
 		select:focus::-ms-value {
@@ -2038,12 +2038,12 @@ input, select, textarea {
 			background: #ffffff;
 			border-color: #9bf1ff;
 			content: '\f00c';
-			color: #d1d1d1;
+			color: #000000;
 		}
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #9bf1ff;
+			box-shadow: 0 0 0 2px #000000;
 		}
 
 	input[type="radio"] + label:before {
@@ -2377,12 +2377,12 @@ input, select, textarea {
 
 				ul.pagination li > .page.active {
 					background-color: #ffffff;
-					color: #242943;
+					color: #000000;
 				}
 
 					ul.pagination li > .page.active:hover {
 						background-color: #ffffff;
-						color: #242943 !important;
+						color: #000000 !important;
 					}
 
 					ul.pagination li > .page.active:active {
@@ -2520,8 +2520,8 @@ input, select, textarea {
 		button:active,
 		.button:hover,
 		.button:active {
-			box-shadow: inset 0 0 0 2px #ffffff;
-			color: #ffffff;
+			box-shadow: inset 0 0 0 2px #000000;
+			color: #000000;
 		}
 
 		input[type="submit"]:active,
