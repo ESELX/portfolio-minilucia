@@ -117,7 +117,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #000000;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: "Trebuchet MS", sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -164,11 +164,11 @@ input, select, textarea {
 		}
 
 		a:active {
-			color: #000000 !important;
+			color: #53e3fb !important;
 		}
 
 	strong, b {
-		color: #000000
+		color: #ffffff
 		font-weight: 600;
 	}
 
@@ -2530,8 +2530,8 @@ input, select, textarea {
 		button:active,
 		.button:active {
 			background-color: rgba(155, 241, 255, 0.1);
-			box-shadow: inset 0 0 0 2px #000000;
-			color: #ffffff;
+			box-shadow: inset 0 0 0 2px #ffffff;
+			color: #000000;
 		}
 
 		input[type="submit"].icon:before,
@@ -3238,27 +3238,27 @@ input, select, textarea {
 		}
 
 			#header.alt.style1 .logo strong {
-				color: #6fc3df;
+				color: #000000;
 			}
 
 			#header.alt.style2 .logo strong {
-				color: #8d82c4;
+				color: #000000;
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #ec8d81;
+				color: #000000;
 			}
 
 			#header.alt.style4 .logo strong {
-				color: #e7b788;
+				color: #000000;
 			}
 
 			#header.alt.style5 .logo strong {
-				color: #8ea9e8;
+				color: #000000;
 			}
 
 			#header.alt.style6 .logo strong {
-				color: #87c5a4;
+				color: #000000;
 			}
 
 		body.is-preload #header.alt {
